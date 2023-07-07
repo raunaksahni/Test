@@ -12,6 +12,7 @@
     <type name="Hidden\Base\Logger\Logger">
         <arguments>
             <argument name="name" xsi:type="string">Hidden Base</argument>
+			<argument name="sort_order" xsi:type="string">20</argument>
             <argument name="handlers"  xsi:type="array">
                 <item name="core" xsi:type="object">Hidden\Base\Logger\Handler</item>
             </argument>
