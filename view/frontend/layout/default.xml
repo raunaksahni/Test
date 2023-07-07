@@ -5,5 +5,6 @@
         <css src="Hidden_Base::css/owl.carousel.css"/>
         <css src="Hidden_Base::css/owl.theme.css"/>
         <css src="Hidden_Base::css/owl.transitions.css"/>
+		<css src="Hidden_Base::css/owl2.transitions.css"/>
     </head>
 </page>
